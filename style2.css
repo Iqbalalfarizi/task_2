@@ -1,0 +1,22 @@
+body{
+    background-color:#525252;
+
+}
+table {
+  font-family: arial, sans-serif;
+  background-color: #d4d4d4;
+  width: 600px;
+  margin: 0 auto;
+
+}
+h3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
